@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm studant on Analise e Desenvolvimento de Sistemas.
 - 🔭 I’m currently working on Java Back-end.
-- 💻 I’m currently learning Spring Boot, Git, Web Services REST, DTO, CRUD, TDD, JUnit and data bases.
+- 💻 I’m currently learning Spring Boot, CRUD, Web Services REST, data bases, Html, Css and JavaScript.
 - 📫 How to reach me: esdras.dev@hotmail.com
 - 🌎 My Linkedin: https://www.linkedin.com/in/esdras-pinheiro-alves-667265105/
 - 😄 Pronouns: Ele/Dele.
