@@ -1,11 +1,11 @@
-### Olá, Bem Vindo ao meu Perfil! 👋
+### Hello, Welcome to my Profile! 👋
 
-- 👨‍🎓 I'm studant on Analise e Desenvolvimento de Sistemas.
+- 👨‍🎓 I have a degree in Systems Analysis and Development.
 - 🔭 I’m currently working on Java Back-end.
-- 💻 I’m currently learning Spring Boot, CRUD, Web Services REST, data bases, Html, Css and JavaScript.
+- 💻 I’m currently learning Spring Boot Java, Web Services REST, data bases, AWS, Apache Kafka, Docker and JavaScript.
 - 📫 How to reach me: esdras.dev@hotmail.com
 - 🌎 My Linkedin: https://www.linkedin.com/in/esdras-pinheiro-alves-667265105/
-- 😄 Pronouns: Ele/Dele.
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: My son will probably be a better gamer than I am 👶🎮
 
 ##
