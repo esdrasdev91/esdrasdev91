@@ -10,15 +10,14 @@
 
 ##
 
- <div style="display: inline_block"><br>   
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
-  <a href="https://github.com/esdrasdev91">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=esdrasdev91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasdev91&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
-  ##
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esdrasdev91&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esdrasdev91&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+  
+##
   
   <div style="display: inline_block"><br>   
   
@@ -35,15 +34,13 @@
   
   ##
   
-  <div> 
+ <div> 
   <a href="https://www.youtube.com/channel/UChYNYlVKMMZkUfoxrwk0CzA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/esdrasmtb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/esdrasmtb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/817119330268872734/817119330268872736" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/817119330268872734/817119330268872736" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:esdras.alves11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/esdras-pinheiro-alves-667265105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+  <a href="https://www.linkedin.com/in/esdras-pinheiro-alves-667265105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
   ##
