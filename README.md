@@ -18,7 +18,7 @@
   
 ##
   
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,maven,gradle,idea,postgres,aws,azure,docker,js,react,html,css,vscode,githubactions,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,maven,gradle,idea,postgres,aws,azure,docker,js,react,html,css,vscode,kafka,rabbitmq,windows,linux,githubactions,github)](https://skillicons.dev)
   
   ##
   
